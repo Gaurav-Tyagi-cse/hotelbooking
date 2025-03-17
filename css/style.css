@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-* Project:        Hotux
+* Project:        Bhoomi Techzone Pvt. Ltd.
 * Author:         CN-InfoTech
 * URL:            hthttps://themeforest.net/user/cn-infotech
 * Created:        01/08/2020
@@ -2697,13 +2697,13 @@ footer h4{
   margin-bottom: 29px;
 }
 .footer-top{
-	padding: 100px 0 95px;
+	padding: 43px 0 95px;
 }
 
 .footer-about p{margin-bottom: 29px;}
 
 .footer-logo{
-	padding-bottom: 95px;
+	padding-bottom: 42px;
 }
 
 footer li{margin-bottom: 0; line-height: 2.2;}
@@ -5677,3 +5677,16 @@ section.events .meta span {
 .night-mode .comment-box textarea{background: #000; color: #fff;}
 
 .night-mode section.related-rooms {background: #161616;}
+
+
+/* self */
+
+.log{
+  width: 100px;
+  background-color: aliceblue;
+}
+
+
+.room-btns{
+  display: flex;
+}

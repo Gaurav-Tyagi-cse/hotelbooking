@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-* Project:        Hotux
+* Project:        Bhoomi Techzone Pvt. Ltd.
 * Author:         CN-InfoTech
 * URL:            hthttps://themeforest.net/user/cn-infotech
 * Created:        01/08/2020
